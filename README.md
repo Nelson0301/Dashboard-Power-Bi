@@ -1,8 +1,7 @@
 # Dashboard-Power Bi
 Análisis de Datos
 
----
-## Presentación de los Dashboard
+## Vizualiacion de los Dashboard
 
 ### FLUJO DE TRABAJO
 ![Lámina 1](https://github.com/Nelson0301/Dashboard-Power-Bi/blob/main/imagenes/Flujo%20de%20Trabajo.png)
