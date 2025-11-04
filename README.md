@@ -3,10 +3,10 @@ Análisis de Datos
 
 ---
 
-## FLUJO DE TRABAJO
+### FLUJO DE TRABAJO
 ![Lámina 1](https://github.com/Nelson0301/Dashboard-Power-Bi/blob/main/imagenes/Flujo%20de%20Trabajo.png)
 
-## Visualizacion de los Dashboard
+## VISUALIZACIÓN DE DASHBOARD
 
 ### DASHBOARD DE VENTAS
 ![Lámina 2](https://github.com/Nelson0301/Dashboard-Power-Bi/blob/main/imagenes/Dashboard%20Ventas.png)
