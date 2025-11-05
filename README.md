@@ -46,6 +46,10 @@ Análisis de Datos
 
 ---
 
+## ¿Es un modelo de datos?
+
+---
+
 ### NO ES UN MODELO DE DATOS
 ![Lámina 9](https://github.com/Nelson0301/Dashboard-Power-Bi/blob/main/imagenes/No%20Modelo%20de%20Datos.png)
 
