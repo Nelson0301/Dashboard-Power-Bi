@@ -46,7 +46,7 @@ Análisis de Datos
 
 ---
 
-## ¿Es un modelo de datos?
+## ¿Es un modelo de datos? 
 
 ---
 
