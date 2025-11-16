@@ -18,7 +18,7 @@ Análisis de Datos
 ---
 
 ### MEDIDAS IMPLÍCITAS VS MEDIDAS EXPLÍCITAS
-![Lámina 3](https://github.com/Nelson0301/Dashboard-Power-Bi/blob/main/imagenes/Medidas%20Implicitas%20VS%20Medidas%20Explicitas.png)
+![Lámina 3](https://github.com/Nelson0301/Dashboard-Power-Bi/blob/main/imagenes/Medidas%20Implicitas%20VS%20Medidas%20Explicitas.png) 
 
 ---
 
