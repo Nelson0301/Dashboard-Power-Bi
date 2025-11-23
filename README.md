@@ -10,7 +10,7 @@ Análisis de Datos
 
 ## VISUALIZACIÓN DE DASHBOARD
 
----
+---  
 
 ### DASHBOARD DE VENTAS
 ![Lámina 2](https://github.com/Nelson0301/Dashboard-Power-Bi/blob/main/imagenes/Dashboard%20Ventas.png)
