@@ -13,7 +13,7 @@ Análisis de Datos
 ---  
 
 ### DASHBOARD DE VENTAS
-![Lámina 2](https://github.com/Nelson0301/Dashboard-Power-Bi/blob/main/imagenes/Dashboard%20Ventas.png)
+![Lámina 2](https://github.com/Nelson0301/Dashboard-Power-Bi/blob/main/imagenes/Dashboard%20Ventas.png)  
 
 ### El mapa de burbujas muestra claramente que la gran mayoría de la facturación proviene de América del Norte, con una presencia secundaria en Europa y muy baja penetración en otros continentes.
 ### En el desglose por marca, Microsoft es el mayor generador de facturación (cercano a los $2M), seguido de cerca por Sonos y Sony. Las marcas como Ninja y LG tienen una participación mínima.
